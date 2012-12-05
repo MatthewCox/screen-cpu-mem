@@ -24,7 +24,7 @@ available memory.
 
 Example::
 
-  Mem:2885MB/7987MB  Cpu:[|||||     ]  51.2%
+  Mem:2885MB/7987MB  Cpu:|||||     51.2%
 
 
 
