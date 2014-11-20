@@ -24,7 +24,7 @@ available memory.
 
 Example::
 
-  Mem:2885MB/7987MB  Cpu:[|||||     ]  51.2%
+  Mem:2885MB/7987MB  Cpu:|||||     51.2%
 
 
 
@@ -87,7 +87,7 @@ An example configuration::
 
 The example configuration will result in::
 
-  Host:flea   Mem:2961MB/7987MB  Cpu:[||        ]  25.6%  Load:0.64 0.35 0.28 Fri 09/11 12:56am
+  Host:flea   Mem:2961MB/7987MB  Cpu:||        25.6%  Load:0.64 0.35 0.28 Fri 09/11 12:56am
 
 
 
